@@ -8,6 +8,7 @@ The used site used for this purpose is http://automationpractice.com - therefore
 3. [NPM](https://npmjs.org) (v. 6.4.1)
 4. Chrome browser (v. 72.0.3626.121 ; 64bit)
 5. Internet connection to download dependencies and execute tests
+6. [GIT](https://git-scm.com/) (v. 2.21.0) - if user would like to `git clone` the project
 
 **Project set up:**
 1. Clone project to selected location in one of following ways:
